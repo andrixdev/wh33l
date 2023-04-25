@@ -2,19 +2,21 @@
 Mini-game for a wheel controller
 
 # History
-Back in 2009, a young boy participated in a video game tournamenet and won a Ferrari steering wheel controller.
+Back in 2009, a young boy participated in a video game tournament and won a Ferrari steering wheel controller.
 
 Since then, the box was left rotting in a basement.
 
 Until one day...
 
-The box was opened, and the wheel plugged to a computer.
+The box was opened, and the wheel plugged into a computer.
 
 To be continued...
 
 # The game
 You can play the game here!
 https://andrixdev.github.io/wh33l
+
+(at this point there is no game though)
 
 # Developer information
 * The **main** branch is deployed automatically at https://andrixdev.github.io/wh33l/
